@@ -15,7 +15,17 @@ const HomeBanner = () => {
     speed: 500,
     autoplay: true,
     autoplaySpeed: 3000,
-    pauseOnHover: true
+    pauseOnHover: true,
+    responsive: [
+   
+      {
+        breakpoint: 550,
+        settings: {
+          centerPadding: "0%",
+        },
+      },
+    ],
+
   };
   return (
     <div>
@@ -35,7 +45,7 @@ const HomeBanner = () => {
                   <p>
                   Discover a world of knowledge with us, where learning extends beyond boundaries, unlocking limitless possibilities for personal and academic growth.
                   </p>
-                  <Link className="btn" to="/">
+                  <Link className="btn" to="/blog/learning-beyond-boundaries/">
                   Read More
                   </Link>
                 </div>
@@ -54,13 +64,13 @@ const HomeBanner = () => {
             </div>
             <div class="home-banner-content ">
             <div className="home-content">
-              <h1 class="home-banner-title">STEAM Education</h1>
+              <h2 class="home-banner-title h1">STEAM Education</h2>
 
               <div className="hide-content">
                 <p>
                 Science, Technology, Engineering, Arts and Mathematics (STEAM) for Innovation and Entrepreneurship .
                 </p>
-                <Link className="btn" to="/">
+                <Link className="btn" to="/blog/steam-education/">
                 Read More
                 </Link>
               </div>
@@ -78,13 +88,13 @@ const HomeBanner = () => {
             </div>
             <div class="home-banner-content ">
               <div className="home-content">
-                <h1 class="home-banner-title">Learning by doing </h1>
+                <h2 class="home-banner-title h1">Learning by doing </h2>
 
                 <div className="hide-content">
                   <p>
                   We believe in learning by doing, where hands-on experiences transform knowledge into skills, fostering a dynamic and practical approach to education.
                   </p>
-                  <Link className="btn" to="/">
+                  <Link className="btn" to="/blog/learning-by-doing/">
                   Read More
                   </Link>
                 </div>
@@ -102,13 +112,13 @@ const HomeBanner = () => {
             </div>
             <div class="home-banner-content ">
               <div className="home-content  ">
-                <h1 class="home-banner-title">STEAM VARSITY Purpose</h1>
+                <h2 class="home-banner-title h1">STEAM VARSITY Purpose</h2>
 
                 <div className="hide-content">
                   <p>
                   Where Science Meets Art, Technology Sparks Imagination: STEAM Education, Where Dreams Evolve, Minds Flourish, Future Innovates.
                   </p>
-                  <Link className="btn" to="/">
+                  <Link className="btn" to="/blog/steam-varsity-purpose/">
                    Read More
                   </Link>
                 </div>

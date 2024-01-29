@@ -10,14 +10,14 @@ const MobileComputing = () => {
   const bannerData = {
     image: "/images/course/course-banner8.jpg",
     heading: "Mobile Computing & App Development",
-    para: "Welcome to our Mobile Computing & App Development course at Steam Varsity, a specialized program designed for those who dream of building applications that reach millions of users worldwide on their mobile devices. This course is your gateway to mastering the art and science of creating effective, user-friendly, and impactful mobile applications.",
+    para: "Welcome to our Mobile Computing & App Development course at STEAM Varsity, a specialized program designed for those who dream of building applications that reach millions of users worldwide on their mobile devices. This course is your gateway to mastering the art and science of creating effective, user-friendly, and impactful mobile applications.",
   };
   return (
     <div className="page-content">
     <Helmet>
-        <title>Mobile Computing & App Development Course at Steam Varsity</title>
-        <meta name="description" content="Embark on a journey into the world of Mobile Computing and App Development at Steam Varsity. Acquire the skills to create innovative mobile applications, explore user interfaces, and understand the dynamic landscape of mobile technology. Join us in shaping the future of digital experiences." />
-        <link rel="canonical" href="https://www.steamvarsity.com/course/mobile-computing" />
+        <title>Mobile Computing & App Development Course at STEAM Varsity</title>
+        <meta name="description" content="Embark on a journey into the world of Mobile Computing and App Development at STEAM Varsity. Acquire the skills to create innovative mobile applications, explore user interfaces, and understand the dynamic landscape of mobile technology. Join us in shaping the future of digital experiences." />
+        <link rel="canonical" href="https://www.steamvarsity.com/course/mobile-computing/" />
         
         
         </Helmet>
@@ -121,7 +121,7 @@ Throughout the course, you'll work on hands-on projects that challenge you to ap
               <h2>Why Choose Us for Mobile Computing & App Development:</h2>
 
               <p>
-              Steam Varsity is dedicated to providing a learning experience that combines practical skills with theoretical knowledge. Our Mobile Computing & App Development course is designed to reflect the latest trends and practices in the industry, ensuring you're learning the most current and in-demand skills. With a focus on hands-on learning and real-world application, we prepare our students to not just enter the field of mobile app development but to excel in it. Join us to turn your mobile app dreams into a reality.
+              STEAM Varsity is dedicated to providing a learning experience that combines practical skills with theoretical knowledge. Our Mobile Computing & App Development course is designed to reflect the latest trends and practices in the industry, ensuring you're learning the most current and in-demand skills. With a focus on hands-on learning and real-world application, we prepare our students to not just enter the field of mobile app development but to excel in it. Join us to turn your mobile app dreams into a reality.
               </p>
             </div>
           </div>

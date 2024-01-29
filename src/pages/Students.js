@@ -14,9 +14,9 @@ const Students = () => {
     <div className="page-content">
 
     <Helmet>
-    <title> Students | Steam Varsity</title>
-    <meta name="description" content="Embark on a transformative educational experience with Steam Varsity's comprehensive STEAM courses. From foundational knowledge to advanced skills, our courses are designed to ignite curiosity and foster innovation. Explore a world of possibilities and unleash your potential with our dynamic learning programs." />
-    <link rel="canonical" href="https://www.steamvarsity.com/students" />
+    <title> Students | STEAM Varsity</title>
+    <meta name="description" content="Embark on a transformative educational experience with STEAM Varsity's comprehensive STEAM courses. From foundational knowledge to advanced skills, our courses are designed to ignite curiosity and foster innovation. Explore a world of possibilities and unleash your potential with our dynamic learning programs." />
+    <link rel="canonical" href="https://www.steamvarsity.com/students/" />
     </Helmet>
       <div className="banner1-wrapper">
         <div className="wrapper position-relative">
@@ -30,12 +30,12 @@ const Students = () => {
                   <span>Students</span>
 
                   <h1 className="fw-bold">
-                    Unlock Your Potential at Steam Varsity
+                    Unlock Your Potential at STEAM Varsity
                   </h1>
 
                   <p>
                     Hey there, future innovators! Welcome to the Students hub at
-                    Steam Varsity, where curiosity meets creation and learning
+                    STEAM Varsity, where curiosity meets creation and learning
                     is an adventure. This is your space to discover, explore,
                     and dive deep into the exciting world of STEAM education.
                     Let's get started !
@@ -47,14 +47,7 @@ const Students = () => {
         </div>
       </div>
 
-      <section>
-        <div className="container py-5">
-          <h2 className="fw-bold mb-5">Upcoming Events</h2>
-
-          <LatestNews path="/images/services/latest.jpg" />
-        </div>
-      </section>
-
+     
       <Cources />
 
 

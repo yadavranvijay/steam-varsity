@@ -13,14 +13,14 @@ const Metaverse = () => {
     const bannerData = {
         image: "/images/course/course-banner7.jpg",
         heading: "Metaverse - AR & VR",
-        para: "Welcome to the Metaverse - AR & VR course at Steam Varsity, where we explore the cutting-edge of immersive technology. This course is designed for students, creators, and innovators who are passionate about building and experiencing digital worlds beyond the boundaries of physical reality.",
+        para: "Welcome to the Metaverse - AR & VR course at STEAM Varsity, where we explore the cutting-edge of immersive technology. This course is designed for students, creators, and innovators who are passionate about building and experiencing digital worlds beyond the boundaries of physical reality.",
       };
       return (
         <div className="page-content">
         <Helmet>
-        <title>Metaverse - AR & VR Course at Steam Varsity</title>
-        <meta name="description" content="Immerse yourself in the cutting-edge realms of Augmented Reality (AR) and Virtual Reality (VR) with our Metaverse Course at Steam Varsity. Unleash your creativity, explore immersive experiences, and master the technologies shaping the future of digital interaction. Join us in sculpting the landscapes of the virtual world." />
-        <link rel="canonical" href="https://www.steamvarsity.com/course/metaverse" />
+        <title>Metaverse - AR & VR Course at STEAM Varsity</title>
+        <meta name="description" content="Immerse yourself in the cutting-edge realms of Augmented Reality (AR) and Virtual Reality (VR) with our Metaverse Course at STEAM Varsity. Unleash your creativity, explore immersive experiences, and master the technologies shaping the future of digital interaction. Join us in sculpting the landscapes of the virtual world." />
+        <link rel="canonical" href="https://www.steamvarsity.com/course/metaverse/" />
         
         
         </Helmet>
@@ -146,7 +146,7 @@ Throughout the course, you'll work on projects that challenge you to apply your 
                   <h2>Why Choose Us for Metaverse - AR & VR:</h2>
     
                   <p>
-                  Steam Varsity is at the forefront of immersive technology education, offering a curriculum that's both comprehensive and cutting-edge. Our Metaverse - AR & VR course is designed by industry experts to include the latest developments and best practices. With a focus on hands-on learning and real-world application, we ensure that our students are not just observers of the digital revolution but active creators shaping the future of technology. Join us to transform your imagination into reality.
+                  STEAM Varsity is at the forefront of immersive technology education, offering a curriculum that's both comprehensive and cutting-edge. Our Metaverse - AR & VR course is designed by industry experts to include the latest developments and best practices. With a focus on hands-on learning and real-world application, we ensure that our students are not just observers of the digital revolution but active creators shaping the future of technology. Join us to transform your imagination into reality.
 
 
                   </p>

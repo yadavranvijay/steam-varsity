@@ -11,14 +11,14 @@ const Programming = () => {
        
         image: "/images/course/c.jpg",
         heading: "Programming & Coding",
-        para: "Welcome to our Programming & Coding course, a core component of Steam Varsity's STEAM education offerings. This course is designed to turn you from a technology consumer into a technology creator, equipping you with the skills to bring your digital ideas to life.",
+        para: "Welcome to our Programming & Coding course, a core component of STEAM Varsity's STEAM education offerings. This course is designed to turn you from a technology consumer into a technology creator, equipping you with the skills to bring your digital ideas to life.",
       };
       return (
         <div className="page-content">
         <Helmet>
-        <title>Programming & Coding Course at Steam Varsity</title>
-        <meta name="description" content="Embark on a journey of logical thinking and problem-solving with our Programming & Coding Course at Steam Varsity. Gain proficiency in coding languages, understand algorithmic structures, and cultivate the skills to bring ideas to life through software development. Join us in mastering the language of innovation." />
-        <link rel="canonical" href="https://www.steamvarsity.com/course/programming" />
+        <title>Programming & Coding Course at STEAM Varsity</title>
+        <meta name="description" content="Embark on a journey of logical thinking and problem-solving with our Programming & Coding Course at STEAM Varsity. Gain proficiency in coding languages, understand algorithmic structures, and cultivate the skills to bring ideas to life through software development. Join us in mastering the language of innovation." />
+        <link rel="canonical" href="https://www.steamvarsity.com/course/programming/" />
         
         
         </Helmet>
@@ -105,7 +105,7 @@ const Programming = () => {
         <h2>Why Choose Us for Programming & Coding:</h2>
     
     
-        <p>Steam Varsity is more than just a learning platform; it's a gateway to the future of technology. Our Programming & Coding course is meticulously crafted to cater to both beginners and those looking to enhance their skills. We provide a supportive learning environment, robust community engagement, and direct access to industry professionals, ensuring a comprehensive education that's both enjoyable and effective.
+        <p>STEAM Varsity is more than just a learning platform; it's a gateway to the future of technology. Our Programming & Coding course is meticulously crafted to cater to both beginners and those looking to enhance their skills. We provide a supportive learning environment, robust community engagement, and direct access to industry professionals, ensuring a comprehensive education that's both enjoyable and effective.
         </p>
     
         

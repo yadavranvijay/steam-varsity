@@ -10,14 +10,14 @@ const Cloud = () => {
     const bannerData = {
         image: "/images/course/course-banner9.jpg",
         heading: "Cloud Computing & Web Development",
-        para: "Welcome to the Cloud Computing & Web Development course at Steam Varsity, where we explore the transformative power of cloud technologies and web development. This course is designed for individuals eager to learn how to build scalable, robust websites and applications using the latest cloud-based tools and platforms.",
+        para: "Welcome to the Cloud Computing & Web Development course at STEAM Varsity, where we explore the transformative power of cloud technologies and web development. This course is designed for individuals eager to learn how to build scalable, robust websites and applications using the latest cloud-based tools and platforms.",
       };
       return (
         <div className="page-content">
         <Helmet>
-        <title>Cloud Computing & Web Development Course at Steam Varsity</title>
-        <meta name="description" content="Embark on a transformative journey into the world of Cloud Computing and Web Development with Steam Varsity's comprehensive course. Gain hands-on experience in building scalable web solutions and harnessing the power of cloud technologies. Unleash your potential and shape the future of digital innovation." />
-        <link rel="canonical" href="https://www.steamvarsity.com/course/cloud" />
+        <title>Cloud Computing & Web Development Course at STEAM Varsity</title>
+        <meta name="description" content="Embark on a transformative journey into the world of Cloud Computing and Web Development with STEAM Varsity's comprehensive course. Gain hands-on experience in building scalable web solutions and harnessing the power of cloud technologies. Unleash your potential and shape the future of digital innovation." />
+        <link rel="canonical" href="https://www.steamvarsity.com/course/cloud/" />
         
         
         </Helmet>
@@ -129,7 +129,7 @@ const Cloud = () => {
                   <h2>Why Choose Us for Cloud Computing & Web Development:</h2>
     
                   <p>
-                  Steam Varsity is committed to providing an educational experience that is both comprehensive and cutting-edge. Our Cloud Computing & Web Development course is designed to reflect the latest industry trends and practices, ensuring you're learning the most current and relevant skills. With a focus on practical application and real-world problem-solving, we prepare our students to not just understand the concepts but also to apply them effectively. Join us to unlock the full potential of cloud computing and web development.
+                  STEAM Varsity is committed to providing an educational experience that is both comprehensive and cutting-edge. Our Cloud Computing & Web Development course is designed to reflect the latest industry trends and practices, ensuring you're learning the most current and relevant skills. With a focus on practical application and real-world problem-solving, we prepare our students to not just understand the concepts but also to apply them effectively. Join us to unlock the full potential of cloud computing and web development.
                   </p>
                 </div>
               </div>

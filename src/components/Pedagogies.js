@@ -107,7 +107,7 @@ const Pedagogies = () => {
                           Education
                         </h3>
                         <p>
-                          At Steam Varsity, we champion "Research-Based
+                          At STEAM Varsity, we champion "Research-Based
                           Learning" as the catalyst for meaningful education. We
                           believe in empowering students as active
                           investigators, where learning transcends textbooks
@@ -161,7 +161,7 @@ const Pedagogies = () => {
                           Education
                         </h3>
                         <p>
-                          At Steam Varsity, we embrace the invaluable lessons
+                          At STEAM Varsity, we embrace the invaluable lessons
                           found in "Learning from Failures." We understand that
                           setbacks are not roadblocks but stepping stones to
                           growth. Through hands-on challenges, reflective
@@ -170,7 +170,7 @@ const Pedagogies = () => {
                           part of the learning journey. By fostering resilience
                           and perseverance, we empower students to turn setbacks
                           into opportunities, transforming every stumble into a
-                          stride toward success. Join us at Steam Varsity, where
+                          stride toward success. Join us at STEAM Varsity, where
                           the path to knowledge is paved with the valuable
                           lessons that failure can teach.
                         </p>
@@ -209,7 +209,7 @@ const Pedagogies = () => {
                       <div className="text">
                         <h3>
                           Learning Beyond Boundaries: Expanding Horizons at
-                          Steam Varsity
+                          STEAM Varsity
                         </h3>
                         <p>
                           At STEAM VARSITY, we embrace the philosophy of
@@ -259,11 +259,11 @@ const Pedagogies = () => {
                     <div className="col-md-7">
                       <div className="text">
                         <h3>
-                          Educate to Innovate: Nurturing Creative Minds at Steam
+                          Educate to Innovate: Nurturing Creative Minds at STEAM
                           Varsity
                         </h3>
                         <p>
-                          At Steam Varsity, we stand by the mantra of "Educate
+                          At STEAM Varsity, we stand by the mantra of "Educate
                           to Innovate." Our commitment goes beyond traditional
                           education; it's about cultivating a mindset of
                           creativity and innovation. Through dynamic STEAM
@@ -316,7 +316,7 @@ const Pedagogies = () => {
                           Collaboration
                         </h3>
                         <p>
-                          At Steam Varsity, we thrive on "Peer Learning," a
+                          At STEAM Varsity, we thrive on "Peer Learning," a
                           cornerstone of our educational vision. We believe in
                           learning from one another, where students actively
                           contribute, share insights, and collectively deepen
@@ -325,7 +325,7 @@ const Pedagogies = () => {
                           Learning transforms education into a dynamic, shared
                           experience. Beyond the classroom, it fosters empathy,
                           active engagement, and real-world preparation, shaping
-                          students into collaborative thinkers. Join us at Steam
+                          students into collaborative thinkers. Join us at STEAM
                           Varsity, where education is a collective journey of
                           exploration and shared discovery.
                         </p>
@@ -364,7 +364,7 @@ const Pedagogies = () => {
                       <div className="text">
                         <h3>Peer Mentoring: Empowering Through Connection</h3>
                         <p>
-                          Experience the power of "Peer Mentoring" at Steam
+                          Experience the power of "Peer Mentoring" at STEAM
                           Varsity, where students uplift each other on the
                           journey of knowledge. Our program connects experienced
                           students with peers, creating a supportive network for
@@ -409,10 +409,10 @@ const Pedagogies = () => {
                     <div className="col-md-7">
                       <div className="text">
                         <h3>
-                          Cognitive Learning: Unleashing Minds at Steam Varsity
+                          Cognitive Learning: Unleashing Minds at STEAM Varsity
                         </h3>
                         <p>
-                          Discover the essence of "Cognitive Learning" at Steam
+                          Discover the essence of "Cognitive Learning" at STEAM
                           Varsity, where education is not just about facts but
                           about transforming the way minds think. Our approach
                           focuses on understanding how students process
@@ -464,7 +464,7 @@ const Pedagogies = () => {
                         </h3>
                         <p>
                           Embark on a strategic exploration with our SWOT
-                          analysis at Steam Varsity. We assess the Strengths,
+                          analysis at STEAM Varsity. We assess the Strengths,
                           Weaknesses, Opportunities, and Threats in our
                           educational approach to ensure a holistic and dynamic
                           learning environment. <br />
@@ -521,7 +521,7 @@ const Pedagogies = () => {
                           Mind Mapping: Charting the Path to Creative Learning
                         </h3>
                         <p>
-                          At Steam Varsity, we embrace the power of "Mind
+                          At STEAM Varsity, we embrace the power of "Mind
                           Mapping" as a dynamic tool for creative learning. Our
                           students engage in visual thinking, connecting ideas
                           and concepts in a structured yet flexible format.
@@ -571,12 +571,12 @@ const Pedagogies = () => {
                       <div className="text">
                         <h3>
                           Mixed-Age Learning: A Tapestry of Collaboration at
-                          Steam Varsity
+                          STEAM Varsity
                         </h3>
                         <p>
                           Experience the richness of "Mixed-Age Learning" where
                           diverse ages come together in a tapestry of
-                          collaboration. At Steam Varsity, our classrooms
+                          collaboration. At STEAM Varsity, our classrooms
                           transcend traditional boundaries, fostering an
                           environment where younger minds are inspired by the
                           wisdom of their elder peers, and experienced students
@@ -622,11 +622,11 @@ const Pedagogies = () => {
                     <div className="col-md-7">
                       <div className="text">
                         <h3>
-                          Spiritual Quotient (SQ): Nurturing the Soul at Steam
+                          Spiritual Quotient (SQ): Nurturing the Soul at STEAM
                           Varsity
                         </h3>
                         <p>
-                          At Steam Varsity, we recognize the importance of the
+                          At STEAM Varsity, we recognize the importance of the
                           whole person, including the spiritual dimension. Our
                           unique approach includes the development of "Spiritual
                           Quotient (SQ)," which goes beyond traditional
@@ -674,10 +674,10 @@ const Pedagogies = () => {
                       <div className="text">
                         <h3>
                           Love Quotient (LQ): Fostering Connection and Empathy
-                          at Steam Varsity
+                          at STEAM Varsity
                         </h3>
                         <p>
-                          At Steam Varsity, we go beyond traditional metrics
+                          At STEAM Varsity, we go beyond traditional metrics
                           with our commitment to cultivating the "Love Quotient
                           (LQ)." Our approach values the importance of empathy,
                           compassion, and understanding in the educational
@@ -724,10 +724,10 @@ const Pedagogies = () => {
                       <div className="text">
                         <h3>
                           Emotional Quotient (EQ): Nurturing Emotional
-                          Intelligence at Steam Varsity
+                          Intelligence at STEAM Varsity
                         </h3>
                         <p>
-                          At Steam Varsity, we recognize the significance of
+                          At STEAM Varsity, we recognize the significance of
                           Emotional Quotient (EQ) in shaping well-rounded
                           individuals. Our approach extends beyond academic
                           excellence, focusing on the development of emotional
@@ -772,11 +772,11 @@ const Pedagogies = () => {
                     <div className="col-md-7">
                       <div className="text">
                         <h3>
-                          Empathy Mapping: Understanding Perspectives at Steam
+                          Empathy Mapping: Understanding Perspectives at STEAM
                           Varsity
                         </h3>
                         <p>
-                          Discover the power of "Empathy Mapping" at Steam
+                          Discover the power of "Empathy Mapping" at STEAM
                           Varsity, where we prioritize understanding and
                           connection. Through this innovative approach, students
                           develop a deep understanding of others' perspectives,

@@ -14,14 +14,14 @@ const DesignThinking = () => {
        
     image: "/images/services/design-thinking-banner.jpg",
     heading: "Design Thinking",
-    para: "Welcome to the Design Thinking course, an immersive experience where you'll learn to solve problems creatively and innovate solutions. This course is part of Steam Varsity's STEAM (Science, Technology, Engineering, Arts, Mathematics) education series, dedicated to fostering critical thinking and problem-solving skills.",
+    para: "Welcome to the Design Thinking course, an immersive experience where you'll learn to solve problems creatively and innovate solutions. This course is part of STEAM Varsity's STEAM (Science, Technology, Engineering, Arts, Mathematics) education series, dedicated to fostering critical thinking and problem-solving skills.",
   };
   return (
     <div className="page-content">
     <Helmet>
-    <title>Design Thinking Course at Steam Varsity</title>
-    <meta name="description" content="Embark on a creative journey with our Design Thinking Course at Steam Varsity. Learn the principles of user-centered design, problem-solving, and ideation. Develop the mindset and skills to innovate with purpose, shaping solutions that make a meaningful impact in the world." />
-    <link rel="canonical" href="https://www.steamvarsity.com/course/design-thinking" />
+    <title>Design Thinking Course at STEAM Varsity</title>
+    <meta name="description" content="Embark on a creative journey with our Design Thinking Course at STEAM Varsity. Learn the principles of user-centered design, problem-solving, and ideation. Develop the mindset and skills to innovate with purpose, shaping solutions that make a meaningful impact in the world." />
+    <link rel="canonical" href="https://www.steamvarsity.com/course/design-thinking/" />
     
     </Helmet>
     <CourseBanner {...bannerData}/>
@@ -113,7 +113,7 @@ const DesignThinking = () => {
     <h2>Final Thoughts</h2>
 
 
-    <p>In the Design Thinking course, you'll not only learn a powerful approach to innovation but also develop a mindset that values empathy, collaboration, and iterative learning. Join us at Steam Varsity to begin your journey in transforming the way you think and create.
+    <p>In the Design Thinking course, you'll not only learn a powerful approach to innovation but also develop a mindset that values empathy, collaboration, and iterative learning. Join us at STEAM Varsity to begin your journey in transforming the way you think and create.
     </p>
 
     

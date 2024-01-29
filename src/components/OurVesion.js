@@ -23,7 +23,7 @@ const OurVesion = () => {
 
                 <Collapse bordered={false}  onChange={onChange} >
                   <Panel className='font16' header="What is STEAM VARSITY?" key="1" >
-                    <p>STEAM VARSITY is an educational institution that specializes in Science, Technology, Engineering, Arts, and Mathematics (STEAM) education. We offer innovative programs and hands-on experiences to empower students for the challenges of the future.</p>
+                    <p>STEAM VARSITY is an educational institution that specializes in Science, Technology, Engineering, Arts and Mathematics (STEAM) education. We offer innovative programs and hands-on experiences to empower students for the challenges of the future.</p>
                   </Panel>
                   <Panel className='font16' header="What makes STEAM VARSITY different from traditional education?" key="2">
                     <p>Unlike traditional education, STEAM VARSITY emphasizes an interdisciplinary and practical learning environment. We believe in the power of experiential learning, where theoretical concepts come alive through hands-on experiences.</p>

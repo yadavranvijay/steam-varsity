@@ -12,14 +12,14 @@ const CyberSafety = () => {
        
         image: "/images/course/course-banner2.jpg",
         heading: "Cyber Safety & Security",
-        para: "Welcome to the Cyber Safety & Security course, a crucial component of our digital education offerings at Steam Varsity. As our lives become increasingly intertwined with the digital world, understanding how to protect ourselves and our information is more important than ever.",
+        para: "Welcome to the Cyber Safety & Security course, a crucial component of our digital education offerings at STEAM Varsity. As our lives become increasingly intertwined with the digital world, understanding how to protect ourselves and our information is more important than ever.",
       };
       return (
         <div className="page-content">
         <Helmet>
-        <title>Cyber Safety & Security Course at Steam Varsity</title>
-        <meta name="description" content="Immerse yourself in the crucial realm of cybersecurity with Steam Varsity's Cyber Safety & Security Course. Gain essential skills to protect digital landscapes, understand cyber threats, and become a guardian of online spaces. Join us in shaping a safer digital future through knowledge and expertise." />
-        <link rel="canonical" href="https://www.steamvarsity.com/course/cyber-safety" />
+        <title>Cyber Safety & Security Course at STEAM Varsity</title>
+        <meta name="description" content="Immerse yourself in the crucial realm of cybersecurity with STEAM Varsity's Cyber Safety & Security Course. Gain essential skills to protect digital landscapes, understand cyber threats, and become a guardian of online spaces. Join us in shaping a safer digital future through knowledge and expertise." />
+        <link rel="canonical" href="https://www.steamvarsity.com/course/cyber-safety/" />
         
         
         </Helmet>
@@ -113,7 +113,7 @@ const CyberSafety = () => {
         <h2>Why Choose Us for Cyber Safety & Security:</h2>
     
     
-        <p>Steam Varsity is committed to providing an educational experience that combines theoretical knowledge with practical skills in cyber safety and security. Our course is designed by industry experts to reflect the most current trends and threats in cybersecurity. We offer a supportive learning environment where you can develop critical thinking and problem-solving skills essential for navigating the digital world safely and confidently. Join us to become a proactive defender in the ever-evolving cyber landscape.
+        <p>STEAM Varsity is committed to providing an educational experience that combines theoretical knowledge with practical skills in cyber safety and security. Our course is designed by industry experts to reflect the most current trends and threats in cybersecurity. We offer a supportive learning environment where you can develop critical thinking and problem-solving skills essential for navigating the digital world safely and confidently. Join us to become a proactive defender in the ever-evolving cyber landscape.
 
 
         </p>

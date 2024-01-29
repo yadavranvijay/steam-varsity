@@ -19,9 +19,9 @@ const Game = () => {
       return (
         <div className="page-content">
         <Helmet>
-        <title>Game & Animation Course at Steam Varsity</title>
-        <meta name="description" content="Explore the dynamic world of interactive storytelling and visual expression with our Game & Animation Course at Steam Varsity. From game design principles to animation techniques, unlock the skills to bring your imaginative worlds to life. Join us in the exciting journey of creating immersive digital experiences." />
-        <link rel="canonical" href="https://www.steamvarsity.com/course/game" />
+        <title>Game & Animation Course at STEAM Varsity</title>
+        <meta name="description" content="Explore the dynamic world of interactive storytelling and visual expression with our Game & Animation Course at STEAM Varsity. From game design principles to animation techniques, unlock the skills to bring your imaginative worlds to life. Join us in the exciting journey of creating immersive digital experiences." />
+        <link rel="canonical" href="https://www.steamvarsity.com/course/game/" />
         
         
         </Helmet>
@@ -107,7 +107,7 @@ const Game = () => {
         <h2>Why Choose Us for Game & Animation:</h2>
     
     
-        <p>Steam Varsity is dedicated to providing an immersive and innovative education in the field of game and animation. Our curriculum is designed to keep pace with the rapidly evolving digital landscape, ensuring you're learning the most current techniques and tools. With a focus on creativity and individual expression, we offer personalized feedback and support to help each student develop their unique voice and style. Join us to turn your passion for games and animation into a vibrant career.
+        <p>STEAM Varsity is dedicated to providing an immersive and innovative education in the field of game and animation. Our curriculum is designed to keep pace with the rapidly evolving digital landscape, ensuring you're learning the most current techniques and tools. With a focus on creativity and individual expression, we offer personalized feedback and support to help each student develop their unique voice and style. Join us to turn your passion for games and animation into a vibrant career.
         </p>
     
         

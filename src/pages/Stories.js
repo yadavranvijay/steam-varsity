@@ -14,8 +14,8 @@ const Stories = () => {
     <div className="page-content">
     <Helmet>
     <title> Stories from the STEAM Frontier </title>
-    <meta name="description" content="Dive into the captivating stories that unfold within the realm of Steam Varsity. From breakthrough projects to personal journeys of discovery, our collection of narratives showcases the profound impact of STEAM education. Join us in celebrating the stories that shape our innovative community." />
-    <link rel="canonical" href="https://www.steamvarsity.com/stories" />
+    <meta name="description" content="Dive into the captivating stories that unfold within the realm of STEAM Varsity. From breakthrough projects to personal journeys of discovery, our collection of narratives showcases the profound impact of STEAM education. Join us in celebrating the stories that shape our innovative community." />
+    <link rel="canonical" href="https://www.steamvarsity.com/stories/" />
     </Helmet>
     
       <div className="banner1-wrapper">
@@ -27,12 +27,12 @@ const Stories = () => {
             <div className="content costum-container">
               <div className="row">
                 <div className="col-md-6 text-white">
-                  <span>Facilitatores</span>
+                  <span>Facilitators</span>
 
                   <h1 className="fw-bold">Meet Your Inspiring Guides</h1>
 
                   <p>
-                    Welcome to the Steam Varsity family! At the heart of our
+                    Welcome to the STEAM Varsity family! At the heart of our
                     vibrant learning community are the incredible facilitators
                     who make the world of STEAM education come alive. Get to
                     know the inspiring individuals who will be your mentors,

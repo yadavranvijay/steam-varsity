@@ -11,14 +11,14 @@ const Robotics = () => {
        
         image: "/images/course/course-banner1.jpg",
         heading: "Robotics, Drones, and IoT",
-        para: "Welcome to an immersive journey through some of the most exciting and innovative fields in science, technology, engineering, arts, and mathematics (STEAM). Our courses in Robotics, Drones, and the Internet of Things (IoT) are designed to provide a comprehensive, hands-on education that bridges theoretical knowledge with real-world application.",
+        para: "Welcome to an immersive journey through some of the most exciting and innovative fields in science, technology, engineering, Arts and mathematics (STEAM). Our courses in Robotics, Drones, and the Internet of Things (IoT) are designed to provide a comprehensive, hands-on education that bridges theoretical knowledge with real-world application.",
       };
   return (
     <div className="page-content">
     <Helmet>
-    <title>Robotics, Drones, and IoT Course at Steam Varsity</title>
-    <meta name="description" content="Embark on a journey of innovation with our Robotics, Drones, and IoT Course at Steam Varsity. Dive into the realms of automation, explore the skies with drones, and connect devices in the Internet of Things. Gain the skills to shape the future of technology. Join us in redefining possibilities." />
-    <link rel="canonical" href="https://www.steamvarsity.com/course/robotics" />
+    <title>Robotics, Drones, and IoT Course at STEAM Varsity</title>
+    <meta name="description" content="Embark on a journey of innovation with our Robotics, Drones, and IoT Course at STEAM Varsity. Dive into the realms of automation, explore the skies with drones, and connect devices in the Internet of Things. Gain the skills to shape the future of technology. Join us in redefining possibilities." />
+    <link rel="canonical" href="https://www.steamvarsity.com/course/robotics/" />
     
     
     </Helmet>
@@ -124,10 +124,10 @@ Get hands-on experience with programming languages used in robotics.
     <div className="row">
     <div className="col">
     <div className="wrapper">
-    <h2>Why Choose Steam Varsity?</h2>
+    <h2>Why Choose STEAM Varsity?</h2>
 
 
-    <p>At Steam Varsity, we're committed to providing an education that's as engaging and practical as it is informative. Our courses are designed with your future in mind, equipping you with the knowledge and skills needed to excel in a rapidly evolving world. Join us to explore the frontiers of technology and innovation
+    <p>At STEAM Varsity, we're committed to providing an education that's as engaging and practical as it is informative. Our courses are designed with your future in mind, equipping you with the knowledge and skills needed to excel in a rapidly evolving world. Join us to explore the frontiers of technology and innovation
     </p>
 
     

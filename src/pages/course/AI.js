@@ -12,14 +12,14 @@ const AI = () => {
     const bannerData = {
         image: "/images/course/course-banner6.jpg",
         heading: "AI & Machine Learning",
-        para: "Welcome to our AI & Machine Learning course, a cornerstone of Steam Varsity's advanced technology education offerings. This course is designed for individuals who are fascinated by the prospect of building intelligent systems that learn, adapt, and potentially outperform human capabilities.",
+        para: "Welcome to our AI & Machine Learning course, a cornerstone of STEAM Varsity's advanced technology education offerings. This course is designed for individuals who are fascinated by the prospect of building intelligent systems that learn, adapt, and potentially outperform human capabilities.",
       };
       return (
         <div className="page-content">
         <Helmet>
-        <title>Mastering Artificial Intelligence | Advanced AI Course at Steam Varsity</title>
-        <meta name="description" content="Dive deep into the intricacies of Artificial Intelligence with our advanced AI course at Steam Varsity. Uncover the latest techniques, real-world applications, and hands-on experiences that will empower you to lead in the evolving landscape of AI innovation." />
-        <link rel="canonical" href="https://www.steamvarsity.com/course/ai" />
+        <title>Mastering Artificial Intelligence | Advanced AI Course at STEAM Varsity</title>
+        <meta name="description" content="Dive deep into the intricacies of Artificial Intelligence with our advanced AI course at STEAM Varsity. Uncover the latest techniques, real-world applications, and hands-on experiences that will empower you to lead in the evolving landscape of AI innovation." />
+        <link rel="canonical" href="https://www.steamvarsity.com/course/ai/" />
         
         
         </Helmet>
@@ -133,7 +133,7 @@ const AI = () => {
                   <h2>Why Choose Us for AI & Machine Learning:</h2>
     
                   <p>
-                  Steam Varsity is committed to providing cutting-edge education in the field of AI and machine learning. Our course is designed by industry experts and constantly updated to include the latest advancements and techniques. With a focus on practical application and real-world problem-solving, we ensure that our students are not just learning theories but also acquiring skills that will make them valuable in the job market. Join us to be at the forefront of the AI revolution.
+                  STEAM Varsity is committed to providing cutting-edge education in the field of AI and machine learning. Our course is designed by industry experts and constantly updated to include the latest advancements and techniques. With a focus on practical application and real-world problem-solving, we ensure that our students are not just learning theories but also acquiring skills that will make them valuable in the job market. Join us to be at the forefront of the AI revolution.
 
 
                   </p>

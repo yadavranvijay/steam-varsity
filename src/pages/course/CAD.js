@@ -10,14 +10,14 @@ const CAD = () => {
   const bannerData = {
     image: "/images/course/course-banner5.jpg",
     heading: "3D Prototyping & CAD",
-    para: "Welcome to our 3D Prototyping & CAD course, a pivotal offering at Steam Varsity designed for individuals looking to delve into the world of digital design and prototyping. This course provides an in-depth exploration of the tools, techniques, and principles that bring ideas to life in three dimensions.",
+    para: "Welcome to our 3D Prototyping & CAD course, a pivotal offering at STEAM Varsity designed for individuals looking to delve into the world of digital design and prototyping. This course provides an in-depth exploration of the tools, techniques, and principles that bring ideas to life in three dimensions.",
   };
   return (
     <div className="page-content">
  <Helmet>
-        <title>3D Prototyping & CAD Course at Steam Varsity</title>
-        <meta name="description" content="Immerse yourself in the realm of creativity with our 3D Prototyping & CAD Course at Steam Varsity. Learn the art of transforming concepts into reality, exploring the synergy between 3D prototyping and Computer-Aided Design. Elevate your skills and bring your ideas to life in the digital landscape." />
-        <link rel="canonical" href="https://www.steamvarsity.com/course/cad" />
+        <title>3D Prototyping & CAD Course at STEAM Varsity</title>
+        <meta name="description" content="Immerse yourself in the realm of creativity with our 3D Prototyping & CAD Course at STEAM Varsity. Learn the art of transforming concepts into reality, exploring the synergy between 3D prototyping and Computer-Aided Design. Elevate your skills and bring your ideas to life in the digital landscape." />
+        <link rel="canonical" href="https://www.steamvarsity.com/course/cad/" />
         
         
         </Helmet>
@@ -122,7 +122,7 @@ const CAD = () => {
               <h2>Why Choose Us for 3D Prototyping & CAD:</h2>
 
               <p>
-              At Steam Varsity, we are dedicated to providing a comprehensive educational experience that equips you with the skills needed to excel in the fields of design and prototyping. Our course is structured to provide a balance of theoretical understanding and practical application, ensuring that you're not just learning the tools but also how to think and solve problems like a designer. With our state-of-the-art resources, experienced instructors, and a focus on innovation, we are committed to helping you turn your creative visions into tangible realities.
+              At STEAM Varsity, we are dedicated to providing a comprehensive educational experience that equips you with the skills needed to excel in the fields of design and prototyping. Our course is structured to provide a balance of theoretical understanding and practical application, ensuring that you're not just learning the tools but also how to think and solve problems like a designer. With our state-of-the-art resources, experienced instructors, and a focus on innovation, we are committed to helping you turn your creative visions into tangible realities.
               </p>
             </div>
           </div>
